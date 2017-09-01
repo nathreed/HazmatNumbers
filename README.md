@@ -1,6 +1,6 @@
 # HazmatNumbers
 
-Have you ever been driving on the highway and noticed a hazmat placard with a UN number on it and wondered what that vehicle was carrying? Wonder no more, with this simple app for iOS. It integrates all UN numbers into Spotlight Search so you can quickly and easily identify any substance by typing "UN xxxx" into the Spotlight bar.
+Have you ever been driving on the highway, noticed a hazmat placard with a UN number on it, and wondered what that vehicle was carrying? Wonder no more, with this simple app for iOS. It integrates all UN numbers into Spotlight Search so you can quickly and easily identify any substance by typing "UN xxxx" into the Spotlight bar.
 
 ## Prep  
 
