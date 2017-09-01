@@ -15,4 +15,6 @@ Now you are ready to compile and run the app from Xcode 9 or higher (required fo
 
 Uses [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON).
 
+App icon resized from [this](https://propaneoutfitters.com/wp-content/uploads/2016/07/PROPANE-HASMAT-NFPA-OSHA-LABEL-SIGN.png) image using [makeappicon.com](https://makeappicon.com).
+
 License: MIT
