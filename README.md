@@ -1,6 +1,6 @@
 # HazmatNumbers
 
-Have you ever been driving on the highway and noticed a hazmat placard with a UN number on it and wondered what that vehicle was carrying? Wonder no more, with this simple app for iOS. It integrates all UN numbers into Spotlight Search so you can quickly and easily identify any substance by typing "UN xxxx" into the Spotlight bar.
+Have you ever been driving on the highway, noticed a hazmat placard with a UN number on it, and wondered what that vehicle was carrying? Wonder no more, with this simple app for iOS. It integrates all UN numbers into Spotlight Search so you can quickly and easily identify any substance by typing "UN xxxx" into the Spotlight bar.
 
 ## Prep  
 
@@ -14,5 +14,7 @@ Because this app relies on copyrighted data from the UN and I don't want to get 
 Now you are ready to compile and run the app from Xcode 9 or higher (required for Swift 4 compatibility). It will add the UN numbers to the spotlight index at first launch (it does nothing else) and at that point you need only keep in on the device in a folder somewhere and you will always be able to search for UN numbers.
 
 Uses [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON).
+
+App icon resized from [this](https://propaneoutfitters.com/wp-content/uploads/2016/07/PROPANE-HASMAT-NFPA-OSHA-LABEL-SIGN.png) image using [makeappicon.com](https://makeappicon.com).
 
 License: MIT
